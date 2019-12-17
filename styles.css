@@ -13,9 +13,9 @@ body{
   font-style: normal ;
 }
 
-p{width:750px;}
+p{width:750px; color: #ffffff; }
 /*The next rule centers and spaces the media*/
-img, video, audio, canvas, p{ text-align: center;
+img, video, audio, canvas, p{ text-align: center
     display: block;
     margin: 0 auto;
     padding-bottom: 2em}
